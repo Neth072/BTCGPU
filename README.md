@@ -37,4 +37,4 @@ Please check our [Responsible Disclosure](https://bitcoingold.org/responsible-di
 * Facebook: https://www.facebook.com/bitcoingoldofficial/
 * Forum: https://forum.bitcoingold.org
 * Discord: [invitation](https://discord.gg/HmVUU6S)
-* Telegram (Global): https://t.me/BitcoinGoldHQ
+* Telegram (Global): https://t.me/BitcoinGoldHQ 
