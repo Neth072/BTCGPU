@@ -95,7 +95,7 @@ can add more commits to your pull request by committing them locally and pushing
 to your fork until you have satisfied all feedback.
 
 Squashing Commits
----------------------------
+--------------------------- 
 If your pull request is accepted for merging, you may be asked by a maintainer
 to squash and or [rebase](https://git-scm.com/docs/git-rebase) your commits
 before it will be merged. The basic squashing workflow is shown below.
